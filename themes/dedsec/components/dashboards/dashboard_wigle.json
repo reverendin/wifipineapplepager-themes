@@ -14,7 +14,7 @@
   "background": {
     "layers": [
       { "image_path": "assets/dashboard/wigle_bg.png", "x": 0, "y": 0 },
-      { "text": "Wigle", "text_size": "large", "text_color_palette": "blue", "x": 5 },
+      { "text": "Wigle / GPS", "text_size": "large", "text_color_palette": "blue", "x": 5 },
       { "x":60, "y":155, "text": "Lat:", "text_size": "medium", "text_color_palette": "blue"},
             { "variable_name": "$_GPS_LAT", "x": 120, "y":155, "string_template": {"text_size": "medium", "text_color_palette": "blue" } },
             { "x":60, "y":180, "text": "Lon:", "text_size": "medium", "text_color_palette": "blue"},
